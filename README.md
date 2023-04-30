@@ -389,10 +389,3 @@ kraljic_diagram = sns.scatterplot(x = 'risk_index', y = 'value', data = supplier
 
 ![Plot7](https://github.com/dwoo-work/multi-criteria-abc-segmentation/blob/main/plots/plot7.png)
 
-## Credit
-
-Sales Data Sample (https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
